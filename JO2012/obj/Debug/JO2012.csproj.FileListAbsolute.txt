@@ -1,0 +1,33 @@
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe.config
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.pdb
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csprojAssemblyReference.cache
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.Properties.Resources.resources
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.GenerateResource.cache
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.exe
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.pdb
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.FrmTest.resources
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.CoreCompileInputs.cache
+F:\BTS\2eme Annee\SLAM 3\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.frmAthletes.resources
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe.config
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.pdb
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csprojAssemblyReference.cache
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.frmAthletes.resources
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.FrmTest.resources
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.Properties.Resources.resources
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.GenerateResource.cache
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.CoreCompileInputs.cache
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.exe
+F:\BTS\2ème Année\SLAM 3 - Bases De Données\C#\ADO\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.pdb
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe.config
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.exe
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\bin\Debug\JO2012.pdb
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.frmAthletes.resources
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.FrmTest.resources
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.Properties.Resources.resources
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.GenerateResource.cache
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csproj.CoreCompileInputs.cache
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.exe
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.pdb
+F:\BTS\2ème Année\Exams\E4\Projet\TP 1 - JO2012\JO2012\JO2012\obj\Debug\JO2012.csprojAssemblyReference.cache
