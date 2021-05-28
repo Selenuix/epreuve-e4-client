@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JO2012
 {
@@ -29,7 +25,8 @@ namespace JO2012
                     c = new SqlConnection(chaineDeConnexion);
                     c.Open();
                     Console.WriteLine("****************\n\n Connecté à " + c.Database + "\n\n****************");
-                } catch (Exception ex)
+                }
+                catch (Exception ex)
                 {
                     Console.WriteLine("Erreur de connexion : " + ex.Message);
                 }
